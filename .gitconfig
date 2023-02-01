@@ -4,3 +4,6 @@
 	proxy = socks5://172.17.96.1:1082
 [init]
 	defaultBranch = main
+[user]
+	email = ethan.dong@outlook.com
+	name = Ethan Dong
