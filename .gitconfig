@@ -7,3 +7,5 @@
 [user]
 	email = ethan.dong@outlook.com
 	name = Ethan Dong
+[core]
+	editor = nvim
