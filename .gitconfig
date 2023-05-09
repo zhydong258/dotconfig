@@ -1,7 +1,7 @@
 [https "https://github.com"]
-	proxy = socks5://172.17.96.1:1082
+	proxy = socks5://172.30.80.1:1080
 [http "https://github.com"]
-	proxy = socks5://172.17.96.1:1082
+	proxy = socks5://172.30.80.1:1080
 [init]
 	defaultBranch = main
 [user]

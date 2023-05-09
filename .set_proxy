@@ -1,6 +1,6 @@
 #!/bin/bash
 host_ip=$(cat /etc/resolv.conf | grep "nameserver" | cut -f 2 -d " ")
-export http_proxy="http://$host_ip:1083"
-export https_proxy="http://$host_ip:1083"
-eval "git config --global https.https://github.com.proxy socks5://$host_ip:1082"
-eval "git config --global http.https://github.com.proxy socks5://$host_ip:1082"
+export http_proxy="http://$host_ip:1081"
+export https_proxy="http://$host_ip:1081"
+eval "git config --global https.https://github.com.proxy socks5://$host_ip:1080"
+eval "git config --global http.https://github.com.proxy socks5://$host_ip:1080"

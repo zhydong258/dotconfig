@@ -14,6 +14,8 @@ lvim.format_on_save.enabled = false
 lvim.colorscheme = "lunar"
 -- to disable icons and use a minimalist setup, uncomment the following
 -- lvim.use_icons = false
+-- set font for neovim-qt
+vim.opt.guifont = "MesloLGM Nerd Font:h12"
 
 -- keymappings [view all the defaults by pressing <leader>Lk]
 lvim.leader = "space"
