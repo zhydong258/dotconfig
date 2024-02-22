@@ -1,4 +1,4 @@
-[![NPM version][shield-npm]](#)
+[![NPM version][shield-npm]](https://blog.csdn.net/u010698107/article/details/120687691)
 [![Node.js version support][shield-node]](#)
 [![Build status][shield-build]](#)
 [![Code coverage][shield-coverage]](#)
