@@ -1,0 +1,6 @@
+[![NPM version][shield-npm](#)
+[![Node.js version support][shield-node]](#)
+[![Build status][shield-build]](#)
+[![Code coverage][shield-coverage]](#)
+[![Dependencies][shield-dependencies]](#)
+[![MIT licensed][shield-license]](#)
