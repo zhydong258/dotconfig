@@ -1,4 +1,4 @@
-[![NPM version][shield-npm](#)
+[![NPM version][shield-npm]](#)
 [![Node.js version support][shield-node]](#)
 [![Build status][shield-build]](#)
 [![Code coverage][shield-coverage]](#)
